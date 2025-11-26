@@ -7,7 +7,6 @@ Character level Byte-Pair Encoding.
 A minimal **Byte-Pair Encoding (BPE)** tokenizer implemented in Python.
 
 
-
 # **Example**
 
 ```python

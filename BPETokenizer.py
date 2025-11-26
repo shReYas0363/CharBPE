@@ -35,3 +35,13 @@ class BPETokenizer:
     
     def get_vocab(self) -> dict[int,str]:
         return self.vocab
+    
+
+
+
+
+# Have to get EOS done
+# Word boundaries to be taken care of 
+# Vocabulary values are raw strings right now
+
+
