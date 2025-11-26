@@ -26,12 +26,4 @@ print("Decoded:", decoded)
 
 ---
 
-# **Stuff to do**
-
-* Have to get EOS done
-* Word boundaries to be taken care of 
-* Vocabulary values are raw strings right now
-
-
----
 
